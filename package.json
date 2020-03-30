@@ -1,5 +1,5 @@
 {
-  "name": "smallbutton",
+  "name": "components_libliary",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaelaugh/smallButton.git"
+    "url": "git+https://github.com/VincentOK/components_libliary.git"
   },
   "author": "chaecho",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chaelaugh/smallButton/issues"
+    "url": "https://github.com/VincentOK/components_libliary/issues"
   },
-  "homepage": "https://github.com/chaelaugh/smallButton#readme"
+  "homepage": "https://github.com/VincentOK/components_libliary#readme"
 }
