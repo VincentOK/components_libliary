@@ -28,6 +28,13 @@ const devConfig = {
           }
         }]
       },
+      {
+        test: /\.css$/,
+        use: [
+          'style-loader',
+          'css-loader'
+        ]
+      },
       { // 编译less
         test: /\.less$/,
         exclude: '/node_modules/',
@@ -41,6 +48,6 @@ const devConfig = {
       },
     ]
   },
-}
+};
 
 module.exports = devConfig;
