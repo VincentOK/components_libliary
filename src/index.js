@@ -1,6 +1,6 @@
-import SmallButton from './components/SmallButton.js';
-import TestForm from './components/testForm';
+import ComponentsLine from './components/ComponentsLine.js';
+import ComponentsBar from './components/ComponentsBar.js';
 module.exports = {
-    SmallButton,
-    TestForm,
+    ComponentsLine: ComponentsLine,
+    ComponentsBar: ComponentsBar
 };

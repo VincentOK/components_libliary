@@ -1,6 +1,6 @@
 {
-  "name": "components_libliary",
-  "version": "1.0.6",
+  "name": "pipe_echarts_components",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
